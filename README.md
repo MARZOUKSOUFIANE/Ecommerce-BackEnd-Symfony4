@@ -8,5 +8,4 @@
 ### - Gérer des clients 
 ### - Gérer des paniers de produits 
 
-### le projet est réalisé avec le fremwork Symfony4 et utilise principalement le nouveau bundle "api Platform" qui est introduit 
-dans symfony4 et qui permet de créer et gérer des api Rest facilement.
+### le projet est réalisé avec le fremwork Symfony4 et utilise principalement le nouveau bundle "api Platform" qui est introduit dans symfony4 et qui permet de créer et gérer des api Rest facilement.
